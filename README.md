@@ -24,41 +24,35 @@ Projeto de uma hamburgueria desenvolvido utilizando **HTML**, **CSS** e **JavaSc
 
 ---
 
+## 🌐 Acesse o Projeto
+
+🔗 https://amiable-ignis-grill-lab.base44.app
+
+---
+
 ## 📸 Prints das Telas
 
 ### 🏠 Tela Inicial
 
-![Tela Inicial](./assets/prints/home.png)
+![Tela Inicial](./imagem1)
 
 ---
 
 ### 🍔 Cardápio
 
-![Cardápio](./assets/prints/cardapio.png)
+![Cardápio](./imagem2)
 
 ---
 
-### 📱 Versão Mobile
+### 🍰 Doces
 
-![Mobile](./assets/prints/mobile.png)
+![Doces](./imagem3)
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
 O objetivo deste projeto é criar uma experiência digital moderna para a hamburgueria **Sabor na Brasa**, facilitando a apresentação dos produtos e aproximando os clientes da marca.
-
----
-
-## ▶️ Como Executar
-
-1. Baixe ou clone este repositório
-
-```bash
-git clone https://github.com/seuusuario/sabor-na-brasa.git
-```
-
-2. Abra o arquivo `index.html` no navegador
 
 ---
 
@@ -81,4 +75,4 @@ Hambúrguer artesanal feito na brasa com muito sabor e qualidade.
 
 ## 👨‍💻 Desenvolvido por
 
-**Eric Alves Ribeiro**
+**Artur Sanção Ribeiro**
